@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+form{
+    background-color: rgb(237, 246, 246);
+    padding: 15px 15px;
+    margin-bottom: 0px;
+}
+.logo img{
+    height: 100px;
+    width: 100px;
+}
+.postApplied{
+    font-weight: bold;
+}
+#post{
+    width: 350px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.postnumber{
+    font-weight: bold;
+    margin-left: 40px;
+}
+#postnumber{
+    width: 150px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.job{
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(179, 239, 239);
+}
+.job p{
+    font-size: xx-large;
+    font-weight: bold;
+}
+.date{
+    margin-top: 25px;
+}
+.date .closingdate{
+    font-weight: bold;
+}
+#closing{
+    height: 30px;
+    padding: 10px 10px;
+}
+.date .interview{
+    margin-left: 100px;
+    font-weight: bold
+}
+#Interview{
+    height: 30px;
+    padding: 10px 10px;
+}
+.bref{
+    margin-top: 20px;
+}
+.info{
+    margin-top: 20px;
+    background-color:rgb(217, 248, 248); 
+    font-weight: bold;
+    text-align: center;
+}
+.sec-1{
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgb(179, 239, 239);
+}
+.details{
+    margin-top: 20px;
+}
+.details .firstname{
+    font-weight: bold;
+}
+#name{
+    width: 250px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.lastname{
+    font-weight: bold;
+    margin-left: 60px;
+}
+#l_name{
+   width: 200px;
+   height: 30px;
+    padding: 10px 10px;
+}
+.address{
+    font-weight: bold;
+}
+#address{
+    width: 740px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.hometelephone{
+    font-weight: bold;
+}
+#telephone{
+    margin-left: 30px;
+    width: 200px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.mobile_Telephone{
+    font-weight: bold;
+}
+#mobiletelephone{
+    margin-left: 25px;
+    width: 200px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.daytelephone{
+    font-weight: bold;
+}
+#daytelephone{
+    margin-left: 10px;
+    width: 200px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.email{
+    font-weight: bold;
+}
+#emailaddress{
+    margin-left: 40px;
+    width: 500px;
+    height: 30px;
+    padding: 10px 10px;
+}
+.contact{
+    font-weight: bold;
+}
+#yes{
+    margin-left: 30px;
+    font-weight: bold;
+}
+#check{
+    margin-left: 10px;
+}
+#no{
+    margin-left: 30px;
+    font-weight: bold;
+}
+.permission{
+    font-weight: bold;
+}
+#yes-1{
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+.sec-2{
+    margin-top: 20px;
+}
+.sec-2 p{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    background-color:rgb(179, 239, 239);
+}
+.job-1{
+    margin-top: 10px;
+}
+.jobbasics{
+    font-weight: bold;
+}
+.licence{
+    font-weight: bold;
+}
+.driving{
+    font-weight: bold;
+}
+.note{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.sumbit{
+    margin-right: 40px;
+    height: 35px;
+    width: 80px;
+    font-size: larger;
+}
+.reset{
+    margin-left: 40px;
+    height: 35px;
+    width: 80px;
+    font-size: larger;
+}
